@@ -1,1 +1,3 @@
-automatically fetch value stocks and stocks with unusual option activity (pareto front of iv skew and vrp) + fetch newest crypto release
+- scrapping_value.ipynb: automatically fetch value stocks and stocks with unusual option activity (pareto front of iv skew and vrp) 
+- crypto_scrap.ipynb: fetch newest crypto release
+- dca_analysis.ipynb: DCA analysis
